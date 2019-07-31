@@ -1,0 +1,12 @@
+.Card_div {
+	display: flex;
+	flex-direction: column;
+}
+
+.Card_title{
+	text-align: center;
+}
+
+.Card_content{
+	text-align: center;
+}
