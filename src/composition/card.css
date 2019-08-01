@@ -1,6 +1,7 @@
 .Card_div {
 	display: flex;
 	flex-direction: column;
+	outline: black 2px solid;
 }
 
 .Card_title{

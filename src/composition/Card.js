@@ -4,6 +4,11 @@ import './card.css';
 function Card (props) {
 	return (
 		<div className='Card'>
+			<button
+        		type='button'
+      		>
+        		delete
+      		</button>
 			<h3 className='title'>
 				{props.title}
 			</h3>
